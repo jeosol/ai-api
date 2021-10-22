@@ -1,4 +1,4 @@
-datasets/
+datasets/spam-classifier
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
