@@ -1,0 +1,1 @@
+Remove pandas and jupyter from the requirements.txt file for production use
